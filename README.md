@@ -1,16 +1,23 @@
-## Hi there 👋
+# Mi nombre es Luis Emilio Cedano
 
-<!--
-**luiscdano/luiscdano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Software en ITLA  
+💻 Apasionado por C#, .NET, APIs, DevOps y proyectos reales  
+📊 Índice académico actual: 4.0 – Último cuatrimestre: 4.0  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Sobre mí
+Soy un estudiante apasionado por el backend y la creación de soluciones reales.  
+Me interesa especializarme en C#, .NET, bases de datos y ciberseguridad aplicada.  
+
+---
+
+# Actualmente estoy trabajando en:
+- `LoggerMantenimientoApp`: Mantenimiento de sensores con Singleton
+- `MascotasAPI`: API RESTful con frontend JS
+- `ColeccionDePeliculas`: Proyecto completo ASP.NET + JS
+- `Total_Asignaciones`: Consolidación de evidencias de Programación Web
+
+---
+
+Gracias por visitar mi perfil. ¡Estoy abierto a colaborar y seguir creciendo!
