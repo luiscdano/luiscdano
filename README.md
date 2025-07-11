@@ -28,7 +28,11 @@ Me interesa especializarme en C#, .NET, bases de datos y ciberseguridad aplicada
 [![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiscdano)
 
 ---
+# Enlazado
 
+[![Behance](https://img.shields.io/badge/Behance-Portfolio-blue?logo=behance&logoColor=white)](https://www.behance.net/luiscdano)
+
+---
 # Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
