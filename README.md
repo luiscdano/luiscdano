@@ -33,9 +33,8 @@ Me interesa especializarme en C#, .NET, bases de datos y ciberseguridad aplicada
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-blue?logo=behance&logoColor=white)](https://www.behance.net/luiscdano)
 
 ---
-# Tech Stack
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
