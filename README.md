@@ -46,5 +46,8 @@ Me interesa especializarme en C#, .NET, bases de datos y ciberseguridad aplicada
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%2300BFFF?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 Gracias por visitar mi perfil. ¡Estoy abierto a colaborar y seguir creciendo!
