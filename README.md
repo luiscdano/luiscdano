@@ -1,41 +1,68 @@
-# Datos que pueden ser interesantes
+# Luis Emilio Cedano Martínez  
+### Founder & CTO | Digital Ecosystems, AI-Driven Platforms & Systems Architecture
 
-🎓 Estudiante de Desarrollo de Software en ITLA  
-💻 Apasionado por C#, .NET, APIs, DevOps y proyectos reales  
-📊 Índice académico actual: 4.0 – Último cuatrimestre: 4.0  
+🚀 Founder y desarrollador enfocado en la creación de ecosistemas tecnológicos, plataformas digitales y arquitecturas de software orientadas a impacto real, escalabilidad y automatización.  
+Construyo soluciones que integran backend moderno, APIs, cloud, inteligencia artificial y seguridad como base para productos digitales, fintech y sistemas empresariales.
 
----
-
-# Soy
-... Un estudiante apasionado por el backend y la creación de soluciones reales.  
-Me interesa especializarme en C#, .NET, bases de datos y ciberseguridad aplicada.  
+🎓 Software Development Student at ITLA  
+📊 Academic Performance: 4.0 GPA (Last Term: 4.0)
 
 ---
 
-# Actualmente estoy trabajando en:
-- `LoggerMantenimientoApp`: Mantenimiento de sensores con Singleton
-- `MascotasAPI`: API RESTful con frontend JS
-- `ColeccionDePeliculas`: Proyecto completo ASP.NET + JS
-- `Total_Asignaciones`: Consolidación de evidencias de Programación Web
+## 🌐 Technology Ecosystem
+Estos repositorios representan las capas principales de mi ecosistema digital y mi visión como constructor de plataformas tecnológicas:
+
+- **CmLayer**  
+  Plataforma base para el desarrollo de soluciones en software, inteligencia artificial, automatización, ciberseguridad y productos cloud-native.
+
+- **GrupoDiCed**  
+  Ecosistema empresarial orientado a ingeniería digital, soluciones inteligentes y arquitectura de sistemas para proyectos tecnológicos reales.
+
+- **Proyectos-ITLA**  
+  Portafolio académico y técnico con aplicaciones funcionales, prácticas de arquitectura de software y demostraciones de patrones, APIs y desarrollo web.
+
+- **PersonalProjects**  
+  Laboratorio de innovación personal para experimentación en APIs, sistemas distribuidos, automatización, DevOps e integración de inteligencia artificial.
 
 ---
 
-# Plataformas educativas // Las cuales curso actualmente y me mantengo retroalimentando
+## 🧩 Vision & Technical Focus
+Mi enfoque como Founder & CTO se centra en diseñar y construir plataformas digitales que puedan evolucionar desde prototipos académicos hasta productos tecnológicos escalables:
 
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/user/luiscdano)
-[![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=flat-square&logo=Platzi&logoColor=white)](https://platzi.com/p/luiscdano/)
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-006400?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/luiscdano)
+- Arquitecturas **Cloud-Native & Microservices**
+- **AI-Driven Systems** integrados en productos digitales
+- **DevOps & CI/CD Automation** para despliegue continuo
+- Seguridad moderna: **Zero Trust, JWT, control de acceso y diseño seguro por defecto**
+- Diseño de **APIs orientadas a servicios y ecosistemas**
+- Observabilidad, monitoreo y resiliencia en sistemas distribuidos
+- Infraestructura como código y entornos reproducibles
+
+---
+
+## 🔧 Active Development
+- `LoggerMantenimientoApp` → Sistema de mantenimiento con arquitectura por capas y patrón Singleton  
+- `MascotasAPI` → API RESTful con frontend en JavaScript, documentación OpenAPI/Swagger y validación de servicios  
+- `ColeccionDePeliculas` → Plataforma ASP.NET + JS con CRUD, base de datos relacional y despliegue web  
+- `Total_Asignaciones` → Portafolio web de proyectos frontend/backend y prácticas académicas
+
+---
+
+## 📚 Continuous Learning
+Me mantengo en formación continua sobre tecnologías emergentes, arquitectura de software y construcción de productos digitales:
+
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/user/luiscdano)  
+[![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=flat-square&logo=Platzi&logoColor=white)](https://platzi.com/p/luiscdano/)  
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-006400?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/luiscdano)  
 [![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiscdano)
 
 ---
-# Enlazado
 
+## 🔗 Professional Presence
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-blue?logo=behance&logoColor=white)](https://www.behance.net/luiscdano)
 
 ---
 
-# Tech Stack
-
+## 🛠️ Core Technology Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -51,4 +78,6 @@ Me interesa especializarme en C#, .NET, bases de datos y ciberseguridad aplicada
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-Gracias por visitar mi perfil. ¡Estoy abierto a colaborar y seguir creciendo!
+---
+
+*Open to collaboration on digital platforms, AI-driven systems, backend architecture, cloud-native products and technology ventures with real-world impact.*
