@@ -50,7 +50,8 @@ Mi enfoque como Founder & CTO se centra en diseñar y construir plataformas digi
 ## 📚 Continuous Learning
 Me mantengo en formación continua sobre tecnologías emergentes, arquitectura de software y construcción de productos digitales:
 
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/user/luiscdano)  
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/user/luiscdano)
+[![Google Skills](https://img.shields.io/badge/Google_Skills_Partner-4285F4?style=flat-square&logo=google&logoColor=white)](https://partner.skills.google/)
 [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=flat-square&logo=Platzi&logoColor=white)](https://platzi.com/p/luiscdano/)  
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-006400?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/luiscdano)  
 [![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiscdano)
@@ -66,6 +67,7 @@ Me mantengo en formación continua sobre tecnologías emergentes, arquitectura d
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
