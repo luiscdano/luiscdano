@@ -4,12 +4,12 @@
 🚀 Founder y desarrollador enfocado en la creación de ecosistemas tecnológicos, plataformas digitales y arquitecturas de software orientadas a impacto real, escalabilidad y automatización.  
 Construyo soluciones que integran backend moderno, APIs, cloud, inteligencia artificial y seguridad como base para productos digitales, fintech y sistemas empresariales.
 
-🎓 Software Development Student at ITLA  
-📊 Academic Performance: 4.0 GPA (Last Term: 4.0)
+🎓 Software Development Student at Intituto Tecnológico de las Américas (ITLA)  
+📊 Academic Performance: 4.0 GPA (Last Term: 3.9)
 
 ---
 
-## 🌐 Technology Ecosystem
+## Technology Ecosystem
 Estos repositorios representan las capas principales de mi ecosistema digital y mi visión como constructor de plataformas tecnológicas:
 
 - **CmLayer**  
@@ -26,7 +26,7 @@ Estos repositorios representan las capas principales de mi ecosistema digital y 
 
 ---
 
-## 🧩 Vision & Technical Focus
+## Vision & Technical Focus
 Mi enfoque como Founder & CTO se centra en diseñar y construir plataformas digitales que puedan evolucionar desde prototipos académicos hasta productos tecnológicos escalables:
 
 - Arquitecturas **Cloud-Native & Microservices**
@@ -39,7 +39,7 @@ Mi enfoque como Founder & CTO se centra en diseñar y construir plataformas digi
 
 ---
 
-## 🔧 Active Development
+## Active Development
 - `LoggerMantenimientoApp` → Sistema de mantenimiento con arquitectura por capas y patrón Singleton  
 - `MascotasAPI` → API RESTful con frontend en JavaScript, documentación OpenAPI/Swagger y validación de servicios  
 - `ColeccionDePeliculas` → Plataforma ASP.NET + JS con CRUD, base de datos relacional y despliegue web  
@@ -47,7 +47,7 @@ Mi enfoque como Founder & CTO se centra en diseñar y construir plataformas digi
 
 ---
 
-## 📚 Continuous Learning
+## Continuous Learning
 Me mantengo en formación continua sobre tecnologías emergentes, arquitectura de software y construcción de productos digitales:
 
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/user/luiscdano)
@@ -58,7 +58,7 @@ Me mantengo en formación continua sobre tecnologías emergentes, arquitectura d
 
 ---
 
-## 🔗 Professional Presence
+## Professional Presence
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-blue?logo=behance&logoColor=white)](https://www.behance.net/luiscdano)
 
 ---
@@ -85,4 +85,4 @@ Me mantengo en formación continua sobre tecnologías emergentes, arquitectura d
 
 ---
 
-*Open to collaboration on digital platforms, AI-driven systems, backend architecture, cloud-native products and technology ventures with real-world impact.*
+**Open to collaboration on digital platforms, AI-driven systems, backend architecture, cloud-native products and technology ventures with real-world impact.**
